@@ -1,0 +1,5 @@
+{
+  "name": "DTU Classroom ",
+  "description": "A mobile-first web application designed for DTU students to enhance productivity. It features a class timetable, subject management, and an AI-powered chatbot assistant using the Gemini API to answer academic questions.",
+  "requestFramePermissions": []
+}
